@@ -1,0 +1,3981 @@
+{
+  "schema_version": 1,
+  "purpose": "Only the works actually cited in the exact released paper.",
+  "canonical_publication": {
+    "doi": "10.5281/zenodo.22837370",
+    "concept_doi": "10.5281/zenodo.22837369"
+  },
+  "reference_slots": [
+    {
+      "id": "ref-001",
+      "number": 1,
+      "raw_reference": "[1] Mike Reznikov. “Designing RTL with C++HDL.” LinkedIn document, September 12, 2026.",
+      "published_text": "Mike Reznikov. “Designing RTL with C++HDL.” LinkedIn document, September 12, 2026.",
+      "published_markdown": "Mike Reznikov. [“Designing RTL with C++HDL.”](https://lnkd.in/p/gM6bBGXw) LinkedIn document, September 12, 2026.",
+      "work_ids": [
+        "work-f078_ref_001"
+      ]
+    },
+    {
+      "id": "ref-002",
+      "number": 2,
+      "raw_reference": "[2] Mike Reznikov. “RISC-V CPU draft in C++HDL.” LinkedIn, February 7, 2026.",
+      "published_text": "Mike Reznikov. “RISC-V CPU draft in C++HDL.” LinkedIn, February 7, 2026.",
+      "published_markdown": "Mike Reznikov. “[RISC-V CPU draft in C++HDL.](https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf)” LinkedIn, February 7, 2026.",
+      "work_ids": [
+        "work-f078_ref_002"
+      ]
+    },
+    {
+      "id": "ref-003",
+      "number": 3,
+      "raw_reference": "[3] Mike Reznikov. Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026.",
+      "published_text": "Mike Reznikov. Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026.",
+      "published_markdown": "Mike Reznikov. Public comment on Vlad Feldman, “[Why hardware engineers should pay attention to AI agents now](https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE),” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026.",
+      "work_ids": [
+        "work-f078_ref_003"
+      ]
+    },
+    {
+      "id": "ref-004",
+      "number": 4,
+      "raw_reference": "[4] Mike Reznikov. Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026.",
+      "published_text": "Mike Reznikov. Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026.",
+      "published_markdown": "Mike Reznikov. Public comment on Mark H. Ren’s [Agentrys funding post](https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR) suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026.",
+      "work_ids": [
+        "work-f078_ref_004"
+      ]
+    },
+    {
+      "id": "ref-005",
+      "number": 5,
+      "raw_reference": "[5] Mike Reznikov. cpphdl repository.",
+      "published_text": "Mike Reznikov. cpphdl repository.",
+      "published_markdown": "Mike Reznikov. [cpphdl repository](https://github.com/mirekez/cpphdl).",
+      "work_ids": [
+        "work-f078_ref_005"
+      ]
+    },
+    {
+      "id": "ref-006",
+      "number": 6,
+      "raw_reference": "[6] Mike Reznikov. cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path.",
+      "published_text": "Mike Reznikov. cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path.",
+      "published_markdown": "Mike Reznikov. [cpphdl examples/basic/Buffer.cpp](https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp), native C++HDL Buffer example with inline native/Verilator test path.",
+      "work_ids": [
+        "work-f078_ref_006"
+      ]
+    },
+    {
+      "id": "ref-007",
+      "number": 7,
+      "raw_reference": "[7] Mike Reznikov. cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example.",
+      "published_text": "Mike Reznikov. cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example.",
+      "published_markdown": "Mike Reznikov. [cpphdl examples/basic/generated/Buffer.sv](https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv), checked-in generated SystemVerilog for the Buffer example.",
+      "work_ids": [
+        "work-f078_ref_007"
+      ]
+    },
+    {
+      "id": "ref-008",
+      "number": 8,
+      "raw_reference": "[8] Yuri Panchul. Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026.",
+      "published_text": "Yuri Panchul. Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026.",
+      "published_markdown": "Yuri Panchul. Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026.",
+      "work_ids": [
+        "work-f078_ref_008"
+      ]
+    },
+    {
+      "id": "ref-009",
+      "number": 9,
+      "raw_reference": "[9] Peter Clarke. “C Level refines System Compiler, CSim tool.” EE Times, May 22, 2000.",
+      "published_text": "Peter Clarke. “C Level refines System Compiler, CSim tool.” EE Times, May 22, 2000.",
+      "published_markdown": "Peter Clarke. “[C Level refines System Compiler, CSim tool.](https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/)” EE Times, May 22, 2000.",
+      "work_ids": [
+        "work-f078_ref_009"
+      ]
+    },
+    {
+      "id": "ref-010",
+      "number": 10,
+      "raw_reference": "[10] Richard Goering. “C Level backs SystemC, but license tiff remains.” EE Times, March 12, 2001.",
+      "published_text": "Richard Goering. “C Level backs SystemC, but license tiff remains.” EE Times, March 12, 2001.",
+      "published_markdown": "Richard Goering. “[C Level backs SystemC, but license tiff remains.](https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/)” EE Times, March 12, 2001.",
+      "work_ids": [
+        "work-f078_ref_010"
+      ]
+    },
+    {
+      "id": "ref-011",
+      "number": 11,
+      "raw_reference": "[11] EE Times. “Synopsys acquires technology assets from C Level Design.” November 12, 2001.",
+      "published_text": "EE Times. “Synopsys acquires technology assets from C Level Design.” November 12, 2001.",
+      "published_markdown": "EE Times. “[Synopsys acquires technology assets from C Level Design.](https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/)” November 12, 2001.",
+      "work_ids": [
+        "work-f078_ref_011"
+      ]
+    },
+    {
+      "id": "ref-012",
+      "number": 12,
+      "raw_reference": "[12] Richard Goering. “C Level folds, Synopsys buys its assets.” EDN, November 12, 2001. Includes Dan Skilken’s description of the “Panchul patent” as a landmark patent for high-level-language-to-HDL synthesis.",
+      "published_text": "Richard Goering. “C Level folds, Synopsys buys its assets.” EDN, November 12, 2001. Includes Dan Skilken’s description of the “Panchul patent” as a landmark patent for high-level-language-to-HDL synthesis.",
+      "published_markdown": "Richard Goering. “[C Level folds, Synopsys buys its assets.](https://www.edn.com/c-level-folds-synopsys-buys-its-assets/)” EDN, November 12, 2001. Includes Dan Skilken’s description of the “Panchul patent” as a landmark patent for high-level-language-to-HDL synthesis.",
+      "work_ids": [
+        "work-f078_ref_012"
+      ]
+    },
+    {
+      "id": "ref-013",
+      "number": 13,
+      "raw_reference": "[13] Luc Séméria, Andrew Seawright, Renu Mehra, Daniel Ng, Arjuna Ekanayake, and Barry Pangrle. “RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor.” DAC 2002, pp. 123–128.",
+      "published_text": "Luc Séméria, Andrew Seawright, Renu Mehra, Daniel Ng, Arjuna Ekanayake, and Barry Pangrle. “RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor.” DAC 2002, pp. 123–128.",
+      "published_markdown": "Luc Séméria, Andrew Seawright, Renu Mehra, Daniel Ng, Arjuna Ekanayake, and Barry Pangrle. “[RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor.](https://doi.org/10.1145/513918.513951)” DAC 2002, pp. 123–128.",
+      "work_ids": [
+        "work-f078_ref_013"
+      ]
+    },
+    {
+      "id": "ref-014",
+      "number": 14,
+      "raw_reference": "[14] Donald Soderman and Yuri Panchul. “Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action.” International Verilog HDL Conference / VHDL International Users Forum, 1998, pp. 22–29.",
+      "published_text": "Donald Soderman and Yuri Panchul. “Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action.” International Verilog HDL Conference / VHDL International Users Forum, 1998, pp. 22–29.",
+      "published_markdown": "Donald Soderman and Yuri Panchul. “[Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action.](https://doi.org/10.1109/IVC.1998.660676)” International Verilog HDL Conference / VHDL International Users Forum, 1998, pp. 22–29.",
+      "work_ids": [
+        "work-f078_ref_014"
+      ]
+    },
+    {
+      "id": "ref-015",
+      "number": 15,
+      "raw_reference": "[15] Donald Soderman and Yuri Panchul. “Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog.” IEEE Symposium on FPGAs for Custom Computing Machines, 1998, pp. 339–342.",
+      "published_text": "Donald Soderman and Yuri Panchul. “Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog.” IEEE Symposium on FPGAs for Custom Computing Machines, 1998, pp. 339–342.",
+      "published_markdown": "Donald Soderman and Yuri Panchul. “[Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog.](https://doi.org/10.1109/FPGA.1998.707944)” IEEE Symposium on FPGAs for Custom Computing Machines, 1998, pp. 339–342.",
+      "work_ids": [
+        "work-f078_ref_015"
+      ]
+    },
+    {
+      "id": "ref-016",
+      "number": 16,
+      "raw_reference": "[16] Yuri V. Panchul, Donald A. Soderman, and Denis R. Coleman. US Patent 6,226,776, “System for converting hardware designs in high-level programming language to hardware implementations.” Filed September 16, 1997; issued May 1, 2001.",
+      "published_text": "Yuri V. Panchul, Donald A. Soderman, and Denis R. Coleman. US Patent 6,226,776, “System for converting hardware designs in high-level programming language to hardware implementations.” Filed September 16, 1997; issued May 1, 2001.",
+      "published_markdown": "Yuri V. Panchul, Donald A. Soderman, and Denis R. Coleman. US Patent 6,226,776, “[System for converting hardware designs in high-level programming language to hardware implementations.](https://patents.google.com/patent/US6226776B1/en)” Filed September 16, 1997; issued May 1, 2001.",
+      "work_ids": [
+        "work-f078_ref_016"
+      ]
+    },
+    {
+      "id": "ref-017",
+      "number": 17,
+      "raw_reference": "[17] Yuri Panchul, Donald Soderman, and Denis Coleman. US Patent 6,848,085, “System for converting hardware designs in high-level programming languages to hardware implementations.” Continuation filed April 30, 2001; issued January 25, 2005.",
+      "published_text": "Yuri Panchul, Donald Soderman, and Denis Coleman. US Patent 6,848,085, “System for converting hardware designs in high-level programming languages to hardware implementations.” Continuation filed April 30, 2001; issued January 25, 2005.",
+      "published_markdown": "Yuri Panchul, Donald Soderman, and Denis Coleman. US Patent 6,848,085, “[System for converting hardware designs in high-level programming languages to hardware implementations.](https://patents.google.com/patent/US6848085B2/en)” Continuation filed April 30, 2001; issued January 25, 2005.",
+      "work_ids": [
+        "work-f078_ref_017"
+      ]
+    },
+    {
+      "id": "ref-018",
+      "number": 18,
+      "raw_reference": "[18] Richard Goering. “C Level Design tackles C-to-HDL.” EE Times, December 14, 1998.",
+      "published_text": "Richard Goering. “C Level Design tackles C-to-HDL.” EE Times, December 14, 1998.",
+      "published_markdown": "Richard Goering. “[C Level Design tackles C-to-HDL.](https://www.eetimes.com/c-level-design-tackles-c-to-hdl/)” EE Times, December 14, 1998.",
+      "work_ids": [
+        "work-f078_ref_018"
+      ]
+    },
+    {
+      "id": "ref-019",
+      "number": 19,
+      "raw_reference": "[19] EE Times. “C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family.” March 16, 1999.",
+      "published_text": "EE Times. “C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family.” March 16, 1999.",
+      "published_markdown": "EE Times. “[C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family.](https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/)” March 16, 1999.",
+      "work_ids": [
+        "work-f078_ref_019"
+      ]
+    },
+    {
+      "id": "ref-020",
+      "number": 20,
+      "raw_reference": "[20] Tom Balph and Pat O’Malley, Motorola Semiconductor. “C modeling accelerates HDL-system design.” EDN, October 22, 1998.",
+      "published_text": "Tom Balph and Pat O’Malley, Motorola Semiconductor. “C modeling accelerates HDL-system design.” EDN, October 22, 1998.",
+      "published_markdown": "Tom Balph and Pat O’Malley, Motorola Semiconductor. “[C modeling accelerates HDL-system design.](https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/)” EDN, October 22, 1998.",
+      "work_ids": [
+        "work-f078_ref_020"
+      ]
+    },
+    {
+      "id": "ref-021",
+      "number": 21,
+      "raw_reference": "[21] Crista Souza. “Altera takes stake in C Level Design to streamline IC-design automation.” EE Times, June 6, 2000.",
+      "published_text": "Crista Souza. “Altera takes stake in C Level Design to streamline IC-design automation.” EE Times, June 6, 2000.",
+      "published_markdown": "Crista Souza. “[Altera takes stake in C Level Design to streamline IC-design automation.](https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/)” EE Times, June 6, 2000.",
+      "work_ids": [
+        "work-f078_ref_021"
+      ]
+    },
+    {
+      "id": "ref-022",
+      "number": 22,
+      "raw_reference": "[22] C Level Design. “C Level Design Donates CycleC Methodology to Open SystemC Initiative.” EE Times, March 19, 2001.",
+      "published_text": "C Level Design. “C Level Design Donates CycleC Methodology to Open SystemC Initiative.” EE Times, March 19, 2001.",
+      "published_markdown": "C Level Design. “[C Level Design Donates CycleC Methodology to Open SystemC Initiative.](https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/)” EE Times, March 19, 2001.",
+      "work_ids": [
+        "work-f078_ref_022"
+      ]
+    },
+    {
+      "id": "ref-023",
+      "number": 23,
+      "raw_reference": "[23] Craig Matsumoto. “Network processor aims at adjunct role.” EE Times, June 12, 2001. Identifies Clearwater Networks as formerly XStream Logic.",
+      "published_text": "Craig Matsumoto. “Network processor aims at adjunct role.” EE Times, June 12, 2001. Identifies Clearwater Networks as formerly XStream Logic.",
+      "published_markdown": "Craig Matsumoto. “[Network processor aims at adjunct role.](https://www.eetimes.com/network-processor-aims-at-adjunct-role/)” EE Times, June 12, 2001. Identifies Clearwater Networks as formerly XStream Logic.",
+      "work_ids": [
+        "work-f078_ref_023"
+      ]
+    },
+    {
+      "id": "ref-024",
+      "number": 24,
+      "raw_reference": "[24] Stephen A. Edwards. “The Challenges of Hardware Synthesis from C-Like Languages.” DATE 2005. Surveys C-like hardware synthesis, including C2Verilog; describes the Panchul–Soderman–Coleman patent as broad; and identifies concurrency and timing control as fundamental challenges.",
+      "published_text": "Stephen A. Edwards. “The Challenges of Hardware Synthesis from C-Like Languages.” DATE 2005. Surveys C-like hardware synthesis, including C2Verilog; describes the Panchul–Soderman–Coleman patent as broad; and identifies concurrency and timing control as fundamental challenges.",
+      "published_markdown": "Stephen A. Edwards. “[The Challenges of Hardware Synthesis from C-Like Languages.](https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf)” DATE 2005. Surveys C-like hardware synthesis, including C2Verilog; describes the Panchul–Soderman–Coleman patent as broad; and identifies concurrency and timing control as fundamental challenges.",
+      "work_ids": [
+        "work-f078_ref_024"
+      ]
+    },
+    {
+      "id": "ref-025",
+      "number": 25,
+      "raw_reference": "[25] Ronald Wilson. “C link remains frayed in hardware design flows.” EE Times, October 17, 2005. Reports how practicing teams were using C for modeling, verification, and selective synthesis, while describing persistent difficulty moving C directly into production RTL.",
+      "published_text": "Ronald Wilson. “C link remains frayed in hardware design flows.” EE Times, October 17, 2005. Reports how practicing teams were using C for modeling, verification, and selective synthesis, while describing persistent difficulty moving C directly into production RTL.",
+      "published_markdown": "Ronald Wilson. “[C link remains frayed in hardware design flows.](https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/)” EE Times, October 17, 2005. Reports how practicing teams were using C for modeling, verification, and selective synthesis, while describing persistent difficulty moving C directly into production RTL.",
+      "work_ids": [
+        "work-f078_ref_025"
+      ]
+    },
+    {
+      "id": "ref-026",
+      "number": 26,
+      "raw_reference": "[26] Shimpei Sato and Kenji Kise. “ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation.” IEEE MCSoC, 2013.",
+      "published_text": "Shimpei Sato and Kenji Kise. “ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation.” IEEE MCSoC, 2013.",
+      "published_markdown": "Shimpei Sato and Kenji Kise. “[ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation.](https://doi.org/10.1109/MCSoC.2013.38)” IEEE MCSoC, 2013.",
+      "work_ids": [
+        "work-f078_ref_026"
+      ]
+    },
+    {
+      "id": "ref-027",
+      "number": 27,
+      "raw_reference": "[27] Shimpei Sato and Kenji Kise. “ArchHDL: A Novel Hardware RTL Development Environment in C++.” ARC, 2015.",
+      "published_text": "Shimpei Sato and Kenji Kise. “ArchHDL: A Novel Hardware RTL Development Environment in C++.” ARC, 2015.",
+      "published_markdown": "Shimpei Sato and Kenji Kise. “[ArchHDL: A Novel Hardware RTL Development Environment in C++.](https://doi.org/10.1007/978-3-319-16214-0_5)” ARC, 2015.",
+      "work_ids": [
+        "work-f078_ref_027"
+      ]
+    },
+    {
+      "id": "ref-028",
+      "number": 28,
+      "raw_reference": "[28] Shimpei Sato, Ryohei Kobayashi, and Kenji Kise. “ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment.” IEICE Transactions on Information and Systems, 2018.",
+      "published_text": "Shimpei Sato, Ryohei Kobayashi, and Kenji Kise. “ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment.” IEICE Transactions on Information and Systems, 2018.",
+      "published_markdown": "Shimpei Sato, Ryohei Kobayashi, and Kenji Kise. “[ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment.](https://doi.org/10.1587/transinf.2017RCP0012)” IEICE Transactions on Information and Systems, 2018.",
+      "work_ids": [
+        "work-f078_ref_028"
+      ]
+    },
+    {
+      "id": "ref-029",
+      "number": 29,
+      "raw_reference": "[29] Jan Decaluwe and the MyHDL community. MyHDL conversion and conversion-verification documentation.",
+      "published_text": "Jan Decaluwe and the MyHDL community. MyHDL conversion and conversion-verification documentation.",
+      "published_markdown": "Jan Decaluwe and the MyHDL community. MyHDL conversion and conversion-verification documentation.",
+      "work_ids": [
+        "work-f078_ref_029"
+      ]
+    },
+    {
+      "id": "ref-030",
+      "number": 30,
+      "raw_reference": "[30] Derek Lockhart, Gary Zibrat, and Christopher Batten. “PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research.” MICRO, 2014.",
+      "published_text": "Derek Lockhart, Gary Zibrat, and Christopher Batten. “PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research.” MICRO, 2014.",
+      "published_markdown": "Derek Lockhart, Gary Zibrat, and Christopher Batten. “PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research.” MICRO, 2014.",
+      "work_ids": [
+        "work-f078_ref_030"
+      ]
+    },
+    {
+      "id": "ref-031",
+      "number": 31,
+      "raw_reference": "[31] ROHD project documentation.",
+      "published_text": "ROHD project documentation.",
+      "published_markdown": "[ROHD project documentation](https://intel.github.io/rohd-website/get-started/overview/).",
+      "work_ids": [
+        "work-f078_ref_031"
+      ]
+    },
+    {
+      "id": "ref-032",
+      "number": 32,
+      "raw_reference": "[32] Synogate. Gatery documentation and tutorials.",
+      "published_text": "Synogate. Gatery documentation and tutorials.",
+      "published_markdown": "Synogate. [Gatery documentation and tutorials](https://www.synogate.com/gatery/tutorial/part1.html).",
+      "work_ids": [
+        "work-f078_ref_032"
+      ]
+    },
+    {
+      "id": "ref-033",
+      "number": 33,
+      "raw_reference": "[33] Verilator 5.052 documentation.",
+      "published_text": "Verilator 5.052 documentation.",
+      "published_markdown": "[Verilator 5.052 documentation](https://verilator.org/guide/latest/overview.html).",
+      "work_ids": [
+        "work-f078_ref_033"
+      ]
+    },
+    {
+      "id": "ref-034",
+      "number": 34,
+      "raw_reference": "[34] Mingjie Liu, Nathaniel Pinckney, Brucek Khailany, and Haoxing Ren. “VerilogEval: Evaluating Large Language Models for Verilog Code Generation.” ICCAD, 2023.",
+      "published_text": "Mingjie Liu, Nathaniel Pinckney, Brucek Khailany, and Haoxing Ren. “VerilogEval: Evaluating Large Language Models for Verilog Code Generation.” ICCAD, 2023.",
+      "published_markdown": "Mingjie Liu, Nathaniel Pinckney, Brucek Khailany, and Haoxing Ren. “VerilogEval: Evaluating Large Language Models for Verilog Code Generation.” ICCAD, 2023.",
+      "work_ids": [
+        "work-f078_ref_034"
+      ]
+    },
+    {
+      "id": "ref-035",
+      "number": 35,
+      "raw_reference": "[35] Yun-Da Tsai, Mingjie Liu, and Haoxing Ren. “RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models.” arXiv:2311.16543, 2023; ACM/IEEE DAC, 2024.",
+      "published_text": "Yun-Da Tsai, Mingjie Liu, and Haoxing Ren. “RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models.” arXiv:2311.16543, 2023; ACM/IEEE DAC, 2024.",
+      "published_markdown": "Yun-Da Tsai, Mingjie Liu, and Haoxing Ren. “[RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models.](https://arxiv.org/abs/2311.16543)” arXiv:2311.16543, 2023; ACM/IEEE DAC, 2024.",
+      "work_ids": [
+        "work-f078_ref_035"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-f078_ref_001",
+      "citekey": "f078_ref_001",
+      "type": "webpage",
+      "title": "Designing RTL with C++HDL",
+      "published_title": "Designing RTL with C++HDL",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          12
+        ]
+      },
+      "url": "https://lnkd.in/p/gM6bBGXw",
+      "doi": null,
+      "reference_slots": [
+        "ref-001"
+      ],
+      "published_context": "Mike Reznikov. “Designing RTL with C++HDL.” LinkedIn document, September 12, 2026.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-001",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-001",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-001",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-001",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-001",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://lnkd.in/p/gM6bBGXw",
+        "status": 200,
+        "final_url": "https://www.linkedin.com/posts/mike-reznikov_designing-rtl-with-chdl-ugcPost-7504639436278788096-MLcL/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAEaWM0Bb_aNPrIBNAiL0Tm_IEgXqLwIFyA",
+        "sha256": "6d10fcb5f57eb9f129b9962afd1442339341038ab4600b51b593fcdf0e6d519d",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "C++ RTL Development for ASIC Prototyping | Mike Reznikov posted on the topic | LinkedIn",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_002",
+      "citekey": "f078_ref_002",
+      "type": "webpage",
+      "title": "RISC-V CPU draft in C++HDL",
+      "published_title": "RISC-V CPU draft in C++HDL",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          2,
+          7
+        ]
+      },
+      "url": "https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf",
+      "doi": null,
+      "reference_slots": [
+        "ref-002"
+      ],
+      "published_context": "Mike Reznikov. “RISC-V CPU draft in C++HDL.” LinkedIn, February 7, 2026.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-002",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-002",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-002",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-002",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-002",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf",
+        "status": 200,
+        "final_url": "https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf",
+        "sha256": "8eb7bf77d0a6e24a6494e8d1f78d05b66521151066397af6e8f0eeb681996228",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "RISC-V CPU in C++HDL",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_003",
+      "citekey": "f078_ref_003",
+      "type": "webpage",
+      "title": "Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026",
+      "published_title": "Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": "https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE",
+      "doi": null,
+      "reference_slots": [
+        "ref-003"
+      ],
+      "published_context": "Mike Reznikov. Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-003",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-003",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-003",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-003",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-003",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE",
+        "status": 200,
+        "final_url": "https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE",
+        "sha256": "1498d4cc8338f64c6461206b9ab561f87fb869b9a8a61ab33be0109b2e3c3fdf",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "Why hardware engineers should pay attention to AI agents now | Vlad Feldman | 15 comments",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_004",
+      "citekey": "f078_ref_004",
+      "type": "webpage",
+      "title": "Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026",
+      "published_title": "Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026
+        ]
+      },
+      "url": "https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR",
+      "doi": null,
+      "reference_slots": [
+        "ref-004"
+      ],
+      "published_context": "Mike Reznikov. Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-004",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-004",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-004",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-004",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-004",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR",
+        "status": 200,
+        "final_url": "https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR",
+        "sha256": "af9ec90cfb5627a96d6ed1526ad6afcae30e7a17a92faee9261867a5b41494bb",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers | Mark H. Ren | 34 comments",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_005",
+      "citekey": "f078_ref_005",
+      "type": "software",
+      "title": "cpphdl repository",
+      "published_title": "cpphdl repository",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {},
+      "url": "https://github.com/mirekez/cpphdl",
+      "doi": null,
+      "reference_slots": [
+        "ref-005"
+      ],
+      "published_context": "Mike Reznikov. cpphdl repository.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-005",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-005",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-005",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-005",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-005",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://github.com/mirekez/cpphdl",
+        "status": 200,
+        "final_url": "https://github.com/mirekez/cpphdl",
+        "sha256": "b6d80b5bf13d11b7c7a2c19d973474904f9e399dc11e72dbd347e9846e36ee0b",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "GitHub - mirekez/cpphdl: C++HDL (Hardware Description Language) · GitHub",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_006",
+      "citekey": "f078_ref_006",
+      "type": "software",
+      "title": "cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path",
+      "published_title": "cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {},
+      "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp",
+      "doi": null,
+      "reference_slots": [
+        "ref-006"
+      ],
+      "published_context": "Mike Reznikov. cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-006",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-006",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-006",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-006",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-006",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp",
+        "status": 200,
+        "final_url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp",
+        "sha256": "8c10f033dbb3b30ebaa76435d869a5cdee423792ad0f1fe9dda44e3257c3740a",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "cpphdl/examples/basic/Buffer.cpp at main · mirekez/cpphdl · GitHub",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_007",
+      "citekey": "f078_ref_007",
+      "type": "software",
+      "title": "cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example",
+      "published_title": "cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Reznikov",
+          "given": "Mike"
+        }
+      ],
+      "issued": {},
+      "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv",
+      "doi": null,
+      "reference_slots": [
+        "ref-007"
+      ],
+      "published_context": "Mike Reznikov. cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-007",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-007",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-007",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-007",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-007",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv",
+        "status": 200,
+        "final_url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv",
+        "sha256": "ed9b13e0fb4f6280f1eeab700cedd97713260521908fab9305e21933896a6749",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "cpphdl/examples/basic/generated/Buffer.sv at main · mirekez/cpphdl · GitHub",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_008",
+      "citekey": "f078_ref_008",
+      "type": "webpage",
+      "title": "Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026",
+      "published_title": "Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Panchul",
+          "given": "Yuri"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          13
+        ]
+      },
+      "url": null,
+      "doi": null,
+      "reference_slots": [
+        "ref-008"
+      ],
+      "published_context": "Yuri Panchul. Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-008",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-008",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-008",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-008",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-008",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      }
+    },
+    {
+      "id": "work-f078_ref_009",
+      "citekey": "f078_ref_009",
+      "type": "webpage",
+      "title": "C Level refines System Compiler, CSim tool",
+      "published_title": "C Level refines System Compiler, CSim tool",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Clarke",
+          "given": "Peter"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2000,
+          5,
+          22
+        ]
+      },
+      "url": "https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/",
+      "doi": null,
+      "reference_slots": [
+        "ref-009"
+      ],
+      "published_context": "Peter Clarke. “C Level refines System Compiler, CSim tool.” EE Times, May 22, 2000.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-009",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-009",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-009",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-009",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-009",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/",
+        "sha256": "0782252a0080c79f52dc4c109277a8e82c0d3db09e68c1176966e3d96b2a9b70",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level refines System Compiler, CSim tool - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_010",
+      "citekey": "f078_ref_010",
+      "type": "webpage",
+      "title": "C Level backs SystemC, but license tiff remains",
+      "published_title": "C Level backs SystemC, but license tiff remains",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Goering",
+          "given": "Richard"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          3,
+          12
+        ]
+      },
+      "url": "https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/",
+      "doi": null,
+      "reference_slots": [
+        "ref-010"
+      ],
+      "published_context": "Richard Goering. “C Level backs SystemC, but license tiff remains.” EE Times, March 12, 2001.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-010",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-010",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-010",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-010",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-010",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/",
+        "sha256": "a5e2544f8cff955b93959b44bd95c36e9115f132060fa9b5537d795dab01a6f6",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level backs SystemC, but license tiff remains - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_011",
+      "citekey": "f078_ref_011",
+      "type": "webpage",
+      "title": "Synopsys acquires technology assets from C Level Design",
+      "published_title": "Synopsys acquires technology assets from C Level Design",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "EE Times"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          11,
+          12
+        ]
+      },
+      "url": "https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/",
+      "doi": null,
+      "reference_slots": [
+        "ref-011"
+      ],
+      "published_context": "EE Times. “Synopsys acquires technology assets from C Level Design.” November 12, 2001.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-011",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-011",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-011",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-011",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-011",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/",
+        "sha256": "eb5589cd040d3d42936822b0aae1c50fc22ee5512006c6af73d90ef26aca0476",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "Synopsys acquires technology assets from C Level Design - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_012",
+      "citekey": "f078_ref_012",
+      "type": "webpage",
+      "title": "C Level folds, Synopsys buys its assets",
+      "published_title": "C Level folds, Synopsys buys its assets",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Goering",
+          "given": "Richard"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          11,
+          12
+        ]
+      },
+      "url": "https://www.edn.com/c-level-folds-synopsys-buys-its-assets/",
+      "doi": null,
+      "reference_slots": [
+        "ref-012"
+      ],
+      "published_context": "Richard Goering. “C Level folds, Synopsys buys its assets.” EDN, November 12, 2001. Includes Dan Skilken’s description of the “Panchul patent” as a landmark patent for high-level-language-to-HDL synthesis.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-012",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-012",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-012",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-012",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-012",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.edn.com/c-level-folds-synopsys-buys-its-assets/",
+        "status": 200,
+        "final_url": "https://www.edn.com/c-level-folds-synopsys-buys-its-assets/",
+        "sha256": "925f9f91fd2e354fd6be110f420ee26356c36ef36c8d05fef2e9273918190a5c",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level folds, Synopsys buys its assets - EDN",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_013",
+      "citekey": "f078_ref_013",
+      "type": "paper-conference",
+      "title": "RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor",
+      "published_title": "RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Séméria",
+          "given": "Luc"
+        },
+        {
+          "family": "Seawright",
+          "given": "Andrew"
+        },
+        {
+          "family": "Mehra",
+          "given": "Renu"
+        },
+        {
+          "family": "Ng",
+          "given": "Daniel"
+        },
+        {
+          "family": "Ekanayake",
+          "given": "Arjuna"
+        },
+        {
+          "family": "Pangrle",
+          "given": "Barry"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2002
+        ]
+      },
+      "url": "https://doi.org/10.1145/513918.513951",
+      "doi": "10.1145/513918.513951",
+      "reference_slots": [
+        "ref-013"
+      ],
+      "published_context": "Luc Séméria, Andrew Seawright, Renu Mehra, Daniel Ng, Arjuna Ekanayake, and Barry Pangrle. “RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor.” DAC 2002, pp. 123–128.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-013",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-013",
+            "authority": "Exact released reference names and order; registry difference adjudicated separately",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-013",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-013",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "container_title": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "volume": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issue": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "pages": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "publisher": [
+          {
+            "source": "https://api.crossref.org/works/10.1145/513918.513951",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1145/513918.513951",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12"
+      },
+      "registry_metadata": {
+        "publisher": "ACM Press",
+        "published-print": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "DOI": "10.1145/513918.513951",
+        "type": "proceedings-article",
+        "page": "123",
+        "title": [
+          "RTL c-based methodology for designing and verifying a multi-threaded processor"
+        ],
+        "author": [
+          {
+            "given": "Luc",
+            "family": "Sèmèria",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Renu",
+            "family": "Mehra",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Barry",
+            "family": "Pangrle",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Arjuna",
+            "family": "Ekanayake",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andrew",
+            "family": "Seawright",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Ng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 39th conference on Design automation  - DAC '02"
+        ],
+        "URL": "https://doi.org/10.1145/513918.513951",
+        "ISSN": [
+          "0738-100X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        }
+      },
+      "container_title": "Proceedings of the 39th conference on Design automation  - DAC '02",
+      "volume": null,
+      "issue": null,
+      "pages": "123",
+      "publisher": "ACM Press"
+    },
+    {
+      "id": "work-f078_ref_014",
+      "citekey": "f078_ref_014",
+      "type": "webpage",
+      "title": "Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action",
+      "published_title": "Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Soderman",
+          "given": "Donald"
+        },
+        {
+          "family": "Panchul",
+          "given": "Yuri"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998
+        ]
+      },
+      "url": "https://doi.org/10.1109/IVC.1998.660676",
+      "doi": "10.1109/IVC.1998.660676",
+      "reference_slots": [
+        "ref-014"
+      ],
+      "published_context": "Donald Soderman and Yuri Panchul. “Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action.” International Verilog HDL Conference / VHDL International Users Forum, 1998, pp. 22–29.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-014",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-014",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-014",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-014",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-014",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1109/IVC.1998.660676",
+        "status": 202,
+        "final_url": "https://ieeexplore.ieee.org/document/660676/",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": null,
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_015",
+      "citekey": "f078_ref_015",
+      "type": "paper-conference",
+      "title": "Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog",
+      "published_title": "Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Soderman",
+          "given": "Donald"
+        },
+        {
+          "family": "Panchul",
+          "given": "Yuri"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998
+        ]
+      },
+      "url": "https://doi.org/10.1109/FPGA.1998.707944",
+      "doi": "10.1109/FPGA.1998.707944",
+      "reference_slots": [
+        "ref-015"
+      ],
+      "published_context": "Donald Soderman and Yuri Panchul. “Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog.” IEEE Symposium on FPGAs for Custom Computing Machines, 1998, pp. 339–342.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-015",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-015",
+            "authority": "Exact released reference names and order; registry difference adjudicated separately",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-015",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-015",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "container_title": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "volume": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issue": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "pages": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "publisher": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/FPGA.1998.707944",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1109/FPGA.1998.707944",
+        "status": 202,
+        "final_url": "https://ieeexplore.ieee.org/document/707944/",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": null,
+        "retrieved_on": "2026-10-12"
+      },
+      "registry_metadata": {
+        "publisher": "IEEE Comput. Soc",
+        "DOI": "10.1109/fpga.1998.707944",
+        "type": "proceedings-article",
+        "page": "339-342",
+        "title": [
+          "Implementing C algorithms in reconfigurable hardware using C2Verilog"
+        ],
+        "author": [
+          {
+            "given": "D.",
+            "family": "Soderman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Y.",
+            "family": "Panchul",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No.98TB100251)"
+        ],
+        "URL": "https://doi.org/10.1109/fpga.1998.707944"
+      },
+      "container_title": "Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No.98TB100251)",
+      "volume": null,
+      "issue": null,
+      "pages": "339-342",
+      "publisher": "IEEE Comput. Soc"
+    },
+    {
+      "id": "work-f078_ref_016",
+      "citekey": "f078_ref_016",
+      "type": "patent",
+      "title": "System for converting hardware designs in high-level programming language to hardware implementations",
+      "published_title": "System for converting hardware designs in high-level programming language to hardware implementations",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Panchul",
+          "given": "Yuri V."
+        },
+        {
+          "family": "Soderman",
+          "given": "Donald A."
+        },
+        {
+          "family": "Coleman",
+          "given": "Denis R."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          5,
+          1
+        ]
+      },
+      "url": "https://patents.google.com/patent/US6226776B1/en",
+      "doi": null,
+      "reference_slots": [
+        "ref-016"
+      ],
+      "published_context": "Yuri V. Panchul, Donald A. Soderman, and Denis R. Coleman. US Patent 6,226,776, “System for converting hardware designs in high-level programming language to hardware implementations.” Filed September 16, 1997; issued May 1, 2001.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-016",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-016",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-016",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-016",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-016",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "patent_number": "US6226776B1",
+      "patent_dates": [
+        {
+          "text": "September 16, 1997"
+        },
+        {
+          "text": "May 1, 2001"
+        }
+      ],
+      "authority_retrieval": {
+        "url": "https://patents.google.com/patent/US6226776B1/en",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_017",
+      "citekey": "f078_ref_017",
+      "type": "patent",
+      "title": "System for converting hardware designs in high-level programming languages to hardware implementations",
+      "published_title": "System for converting hardware designs in high-level programming languages to hardware implementations",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Panchul",
+          "given": "Yuri"
+        },
+        {
+          "family": "Soderman",
+          "given": "Donald"
+        },
+        {
+          "family": "Coleman",
+          "given": "Denis"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2005,
+          1,
+          25
+        ]
+      },
+      "url": "https://patents.google.com/patent/US6848085B2/en",
+      "doi": null,
+      "reference_slots": [
+        "ref-017"
+      ],
+      "published_context": "Yuri Panchul, Donald Soderman, and Denis Coleman. US Patent 6,848,085, “System for converting hardware designs in high-level programming languages to hardware implementations.” Continuation filed April 30, 2001; issued January 25, 2005.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-017",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-017",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-017",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-017",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-017",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "patent_number": "US6848085B2",
+      "patent_dates": [
+        {
+          "text": "April 30, 2001"
+        },
+        {
+          "text": "January 25, 2005"
+        }
+      ],
+      "authority_retrieval": {
+        "url": "https://patents.google.com/patent/US6848085B2/en",
+        "status": "route-unavailable",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_018",
+      "citekey": "f078_ref_018",
+      "type": "webpage",
+      "title": "C Level Design tackles C-to-HDL",
+      "published_title": "C Level Design tackles C-to-HDL",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Goering",
+          "given": "Richard"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998,
+          12,
+          14
+        ]
+      },
+      "url": "https://www.eetimes.com/c-level-design-tackles-c-to-hdl/",
+      "doi": null,
+      "reference_slots": [
+        "ref-018"
+      ],
+      "published_context": "Richard Goering. “C Level Design tackles C-to-HDL.” EE Times, December 14, 1998.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-018",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-018",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-018",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-018",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-018",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-level-design-tackles-c-to-hdl/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-level-design-tackles-c-to-hdl/",
+        "sha256": "e16b0dcf2211bcc6c8cf83a4116f30f9085fbd8ae5e6fb7f76f1299de42566b5",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level Design tackles C-to-HDL - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_019",
+      "citekey": "f078_ref_019",
+      "type": "webpage",
+      "title": "C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family",
+      "published_title": "C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "EE Times"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1999,
+          3,
+          16
+        ]
+      },
+      "url": "https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/",
+      "doi": null,
+      "reference_slots": [
+        "ref-019"
+      ],
+      "published_context": "EE Times. “C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family.” March 16, 1999.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-019",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-019",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-019",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-019",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-019",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/",
+        "sha256": "0d1252d859b5ef2d701ea6e1aeb6f8569ab7a0bc547a8eb1801c2bc9e2d7cc72",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_020",
+      "citekey": "f078_ref_020",
+      "type": "webpage",
+      "title": "C modeling accelerates HDL-system design",
+      "published_title": "C modeling accelerates HDL-system design",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Balph",
+          "given": "Tom"
+        },
+        {
+          "family": "O’Malley",
+          "given": "Pat"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998,
+          10,
+          22
+        ]
+      },
+      "url": "https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/",
+      "doi": null,
+      "reference_slots": [
+        "ref-020"
+      ],
+      "published_context": "Tom Balph and Pat O’Malley, Motorola Semiconductor. “C modeling accelerates HDL-system design.” EDN, October 22, 1998.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-020",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-020",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-020",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-020",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-020",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/",
+        "status": 200,
+        "final_url": "https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/",
+        "sha256": "d1fd21d028615ff7dfe1d4cf46dd5449a2162ae76b5cc14116ae0b601489ed24",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "10.22.98 C modeling accelerates HDL-system desig - EDN",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_021",
+      "citekey": "f078_ref_021",
+      "type": "webpage",
+      "title": "Altera takes stake in C Level Design to streamline IC-design automation",
+      "published_title": "Altera takes stake in C Level Design to streamline IC-design automation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Souza",
+          "given": "Crista"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2000,
+          6,
+          6
+        ]
+      },
+      "url": "https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/",
+      "doi": null,
+      "reference_slots": [
+        "ref-021"
+      ],
+      "published_context": "Crista Souza. “Altera takes stake in C Level Design to streamline IC-design automation.” EE Times, June 6, 2000.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-021",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-021",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-021",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-021",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-021",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/",
+        "sha256": "f805d904a9b10c32185f57783062248be2b0c876fe53847b08ee79355688300b",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "Altera takes stake in C Level Design to streamline IC-design automation - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_022",
+      "citekey": "f078_ref_022",
+      "type": "webpage",
+      "title": "C Level Design Donates CycleC Methodology to Open SystemC Initiative",
+      "published_title": "C Level Design Donates CycleC Methodology to Open SystemC Initiative",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "C Level Design"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          3,
+          19
+        ]
+      },
+      "url": "https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/",
+      "doi": null,
+      "reference_slots": [
+        "ref-022"
+      ],
+      "published_context": "C Level Design. “C Level Design Donates CycleC Methodology to Open SystemC Initiative.” EE Times, March 19, 2001.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-022",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-022",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-022",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-022",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-022",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/",
+        "sha256": "c57d0aa6ded7eaab0673d69037e356120bf2d1a218f11dc5b6c79917df8ae71c",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C Level Design Donates CycleC Methodology to Open SystemC Initiative - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_023",
+      "citekey": "f078_ref_023",
+      "type": "webpage",
+      "title": "Network processor aims at adjunct role",
+      "published_title": "Network processor aims at adjunct role",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Matsumoto",
+          "given": "Craig"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2001,
+          6,
+          12
+        ]
+      },
+      "url": "https://www.eetimes.com/network-processor-aims-at-adjunct-role/",
+      "doi": null,
+      "reference_slots": [
+        "ref-023"
+      ],
+      "published_context": "Craig Matsumoto. “Network processor aims at adjunct role.” EE Times, June 12, 2001. Identifies Clearwater Networks as formerly XStream Logic.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-023",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-023",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-023",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-023",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-023",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/network-processor-aims-at-adjunct-role/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/network-processor-aims-at-adjunct-role/",
+        "sha256": "81b0cba444a3b56ab3798c13f2f3cc41d977f43a2bff04a244a969a823898158",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "Network processor aims at adjunct role - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_024",
+      "citekey": "f078_ref_024",
+      "type": "webpage",
+      "title": "The Challenges of Hardware Synthesis from C-Like Languages",
+      "published_title": "The Challenges of Hardware Synthesis from C-Like Languages",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Edwards",
+          "given": "Stephen A."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2005
+        ]
+      },
+      "url": "https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf",
+      "doi": null,
+      "reference_slots": [
+        "ref-024"
+      ],
+      "published_context": "Stephen A. Edwards. “The Challenges of Hardware Synthesis from C-Like Languages.” DATE 2005. Surveys C-like hardware synthesis, including C2Verilog; describes the Panchul–Soderman–Coleman patent as broad; and identifies concurrency and timing control as fundamental challenges.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-024",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-024",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-024",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-024",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-024",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf",
+        "status": 200,
+        "final_url": "https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf",
+        "sha256": "b0a306bfc2a369913e958ae07d2256c517ffffeb27a2c0b9206a89ef900d9dcb",
+        "content_type": "application/pdf",
+        "page_title": null,
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_025",
+      "citekey": "f078_ref_025",
+      "type": "webpage",
+      "title": "C link remains frayed in hardware design flows",
+      "published_title": "C link remains frayed in hardware design flows",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Wilson",
+          "given": "Ronald"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2005,
+          10,
+          17
+        ]
+      },
+      "url": "https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/",
+      "doi": null,
+      "reference_slots": [
+        "ref-025"
+      ],
+      "published_context": "Ronald Wilson. “C link remains frayed in hardware design flows.” EE Times, October 17, 2005. Reports how practicing teams were using C for modeling, verification, and selective synthesis, while describing persistent difficulty moving C directly into production RTL.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-025",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-025",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-025",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-025",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-025",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/",
+        "status": 200,
+        "final_url": "https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/",
+        "sha256": "82d77192b843aef18e7d1614df50af89b1a07f3efe29da818c535f32cedc1e0a",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": "C link remains frayed in hardware design flows - EE Times",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_026",
+      "citekey": "f078_ref_026",
+      "type": "paper-conference",
+      "title": "ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation",
+      "published_title": "ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Sato",
+          "given": "Shimpei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013,
+          9
+        ]
+      },
+      "url": "https://doi.org/10.1109/MCSoC.2013.38",
+      "doi": "10.1109/MCSoC.2013.38",
+      "reference_slots": [
+        "ref-026"
+      ],
+      "published_context": "Shimpei Sato and Kenji Kise. “ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation.” IEEE MCSoC, 2013.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-026",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-026",
+            "authority": "Exact released reference names and order; registry difference adjudicated separately",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-026",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-026",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "container_title": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "volume": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issue": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "pages": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "publisher": [
+          {
+            "source": "https://api.crossref.org/works/10.1109/MCSoC.2013.38",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1109/MCSoC.2013.38",
+        "status": 202,
+        "final_url": "https://ieeexplore.ieee.org/document/6657913/",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "content_type": "text/html; charset=UTF-8",
+        "page_title": null,
+        "retrieved_on": "2026-10-12"
+      },
+      "registry_metadata": {
+        "publisher": "IEEE",
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1109/mcsoc.2013.38",
+        "type": "proceedings-article",
+        "page": "107-112",
+        "title": [
+          "ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation"
+        ],
+        "author": [
+          {
+            "given": "Simpei",
+            "family": "Sato",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kenji",
+            "family": "Kise",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "2013 IEEE 7th International Symposium on Embedded Multicore Socs"
+        ],
+        "URL": "https://doi.org/10.1109/mcsoc.2013.38",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              9
+            ]
+          ]
+        }
+      },
+      "container_title": "2013 IEEE 7th International Symposium on Embedded Multicore Socs",
+      "volume": null,
+      "issue": null,
+      "pages": "107-112",
+      "publisher": "IEEE"
+    },
+    {
+      "id": "work-f078_ref_027",
+      "citekey": "f078_ref_027",
+      "type": "chapter",
+      "title": "ArchHDL: A Novel Hardware RTL Development Environment in C++",
+      "published_title": "ArchHDL: A Novel Hardware RTL Development Environment in C++",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Sato",
+          "given": "Shimpei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2015
+        ]
+      },
+      "url": "https://doi.org/10.1007/978-3-319-16214-0_5",
+      "doi": "10.1007/978-3-319-16214-0_5",
+      "reference_slots": [
+        "ref-027"
+      ],
+      "published_context": "Shimpei Sato and Kenji Kise. “ArchHDL: A Novel Hardware RTL Development Environment in C++.” ARC, 2015.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-027",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-027",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-027",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "container_title": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "volume": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issue": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "pages": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "publisher": [
+          {
+            "source": "https://api.crossref.org/works/10.1007/978-3-319-16214-0_5",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1007/978-3-319-16214-0_5",
+        "status": 200,
+        "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-16214-0_5?error=cookies_not_supported&code=58591899-b40b-4876-9f22-28fd28f65ed4",
+        "sha256": "fb1bea4d74a5f8bb92e92f4c6d21fa3be322b248368b4e36ded762cdca47e994",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "ArchHDL: A Novel Hardware RTL Design Environment in C++ | Springer Nature Link",
+        "retrieved_on": "2026-10-12"
+      },
+      "registry_metadata": {
+        "publisher": "Springer International Publishing",
+        "published-print": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-319-16214-0_5",
+        "type": "book-chapter",
+        "page": "53-64",
+        "title": [
+          "ArchHDL: A Novel Hardware RTL Design Environment in C++"
+        ],
+        "author": [
+          {
+            "given": "Shimpei",
+            "family": "Sato",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kenji",
+            "family": "Kise",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              3,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Lecture Notes in Computer Science",
+          "Applied Reconfigurable Computing"
+        ],
+        "ISBN": [
+          "9783319162133",
+          "9783319162140"
+        ],
+        "URL": "https://doi.org/10.1007/978-3-319-16214-0_5",
+        "ISSN": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        }
+      },
+      "container_title": "Lecture Notes in Computer Science; Applied Reconfigurable Computing",
+      "volume": null,
+      "issue": null,
+      "pages": "53-64",
+      "publisher": "Springer International Publishing"
+    },
+    {
+      "id": "work-f078_ref_028",
+      "citekey": "f078_ref_028",
+      "type": "article-journal",
+      "title": "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment",
+      "published_title": "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Sato",
+          "given": "Shimpei"
+        },
+        {
+          "family": "Kobayashi",
+          "given": "Ryohei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2018
+        ]
+      },
+      "url": "https://doi.org/10.1587/transinf.2017RCP0012",
+      "doi": "10.1587/transinf.2017RCP0012",
+      "reference_slots": [
+        "ref-028"
+      ],
+      "published_context": "Shimpei Sato, Ryohei Kobayashi, and Kenji Kise. “ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment.” IEICE Transactions on Information and Systems, 2018.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-028",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-028",
+            "authority": "Exact released reference names and order; registry difference adjudicated separately",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-028",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-028",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "container_title": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "volume": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "issue": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "pages": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ],
+        "publisher": [
+          {
+            "source": "https://api.crossref.org/works/10.1587/transinf.2017RCP0012",
+            "authority": "Responsible DOI registry metadata",
+            "status": "live-record-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://doi.org/10.1587/transinf.2017RCP0012",
+        "status": 200,
+        "final_url": "https://www.jstage.jst.go.jp/article/transinf/E101.D/2/E101.D_2017RCP0012/_article",
+        "sha256": "53a78ea918b3b40b759cc8c647d15fcba79abd76fb1c0ecc4ef8aef81d0980fb",
+        "content_type": "text/html;charset=utf-8",
+        "page_title": "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment",
+        "retrieved_on": "2026-10-12"
+      },
+      "registry_metadata": {
+        "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        },
+        "DOI": "10.1587/transinf.2017rcp0012",
+        "type": "journal-article",
+        "page": "344-353",
+        "title": [
+          "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment"
+        ],
+        "volume": "E101.D",
+        "author": [
+          {
+            "given": "Shimpei",
+            "family": "SATO",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Tokyo Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ryohei",
+            "family": "KOBAYASHI",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Tsukuba"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kenji",
+            "family": "KISE",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Tokyo Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "IEICE Transactions on Information and Systems"
+        ],
+        "URL": "https://doi.org/10.1587/transinf.2017rcp0012",
+        "ISSN": [
+          "0916-8532",
+          "1745-1361"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        }
+      },
+      "container_title": "IEICE Transactions on Information and Systems",
+      "volume": "E101.D",
+      "issue": "2",
+      "pages": "344-353",
+      "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)"
+    },
+    {
+      "id": "work-f078_ref_029",
+      "citekey": "f078_ref_029",
+      "type": "software",
+      "title": "MyHDL conversion and conversion-verification documentation",
+      "published_title": "MyHDL conversion and conversion-verification documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Jan Decaluwe and the MyHDL community"
+        }
+      ],
+      "issued": {},
+      "url": "https://docs.myhdl.org/en/stable/manual/conversion.html",
+      "doi": null,
+      "reference_slots": [
+        "ref-029"
+      ],
+      "published_context": "Jan Decaluwe and the MyHDL community. MyHDL conversion and conversion-verification documentation.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-029",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-029",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-029",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "https://docs.myhdl.org/en/stable/manual/conversion.html",
+            "authority": "Official MyHDL documentation, live-fetched through independent web retrieval after direct HTTP 403",
+            "status": "live-body-verified"
+          },
+          {
+            "source": "https://docs.myhdl.org/en/stable/manual/reference.html",
+            "authority": "Official MyHDL documentation, live-fetched through independent web retrieval after direct HTTP 403",
+            "status": "live-body-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-029",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "alternate_urls": [
+        "https://docs.myhdl.org/en/stable/manual/reference.html"
+      ]
+    },
+    {
+      "id": "work-f078_ref_030",
+      "citekey": "f078_ref_030",
+      "type": "webpage",
+      "title": "PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research",
+      "published_title": "PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Lockhart",
+          "given": "Derek"
+        },
+        {
+          "family": "Zibrat",
+          "given": "Gary"
+        },
+        {
+          "family": "Batten",
+          "given": "Christopher"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2014
+        ]
+      },
+      "url": "https://www.csl.cornell.edu/~cbatten/pdfs/lockhart-pymtl-micro2014.pdf",
+      "doi": null,
+      "reference_slots": [
+        "ref-030"
+      ],
+      "published_context": "Derek Lockhart, Gary Zibrat, and Christopher Batten. “PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research.” MICRO, 2014.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-030",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-030",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-030",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "https://www.csl.cornell.edu/~cbatten/pdfs/lockhart-pymtl-micro2014.pdf",
+            "authority": "Live official documentation, author-hosted paper or primary arXiv record",
+            "status": "live-body-verified",
+            "sha256": "2990037cde40c1a4946be1a8e323d0596b8d5cfbf94d8f2e41ac970509ce9e3a"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-030",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "alternate_urls": []
+    },
+    {
+      "id": "work-f078_ref_031",
+      "citekey": "f078_ref_031",
+      "type": "software",
+      "title": "ROHD project documentation",
+      "published_title": "ROHD project documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "ROHD project"
+        }
+      ],
+      "issued": {},
+      "url": "https://intel.github.io/rohd-website/get-started/overview/",
+      "doi": null,
+      "reference_slots": [
+        "ref-031"
+      ],
+      "published_context": "ROHD project documentation.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-031",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-031",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-031",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-031",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-031",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://intel.github.io/rohd-website/get-started/overview/",
+        "status": 200,
+        "final_url": "https://intel.github.io/rohd-website/get-started/overview/",
+        "sha256": "dca037981586cbcf77598e4c7678587e2f3461ea2e461d656e9e733d8f122622",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "Overview - ROHD",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_032",
+      "citekey": "f078_ref_032",
+      "type": "software",
+      "title": "Gatery documentation and tutorials",
+      "published_title": "Gatery documentation and tutorials",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Synogate"
+        }
+      ],
+      "issued": {},
+      "url": "https://www.synogate.com/gatery/tutorial/part1.html",
+      "doi": null,
+      "reference_slots": [
+        "ref-032"
+      ],
+      "published_context": "Synogate. Gatery documentation and tutorials.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-032",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-032",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-032",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-032",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-032",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "authority_retrieval": {
+        "url": "https://www.synogate.com/gatery/tutorial/part1.html",
+        "status": 200,
+        "final_url": "https://www.synogate.com/gatery/tutorial/part1.html",
+        "sha256": "972eb19ff8a8fcaab304e97c2802e6ffdcef5e66af117b04fadc0af112b658a4",
+        "content_type": "text/html",
+        "page_title": "Introduction & Getting Started - Synogate",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_033",
+      "citekey": "f078_ref_033",
+      "type": "software",
+      "title": "Verilator 5.052 documentation",
+      "published_title": "Verilator 5.052 documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Verilator project"
+        }
+      ],
+      "issued": {},
+      "url": "https://verilator.org/guide/latest/overview.html",
+      "doi": null,
+      "reference_slots": [
+        "ref-033"
+      ],
+      "published_context": "Verilator 5.052 documentation.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-033",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-033",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-033",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-033",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-033",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "edition": "5.052",
+      "authority_retrieval": {
+        "url": "https://verilator.org/guide/latest/overview.html",
+        "status": 200,
+        "final_url": "https://verilator.org/guide/latest/overview.html",
+        "sha256": "18afb38be0aa7c0e545bd0a5732294f7e23fd821408b9c38a9d7b90e25242a7a",
+        "content_type": "text/html",
+        "page_title": "Overview &mdash; Verilator 5.052 documentation",
+        "retrieved_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "work-f078_ref_034",
+      "citekey": "f078_ref_034",
+      "type": "webpage",
+      "title": "VerilogEval: Evaluating Large Language Models for Verilog Code Generation",
+      "published_title": "VerilogEval: Evaluating Large Language Models for Verilog Code Generation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Liu",
+          "given": "Mingjie"
+        },
+        {
+          "family": "Pinckney",
+          "given": "Nathaniel"
+        },
+        {
+          "family": "Khailany",
+          "given": "Brucek"
+        },
+        {
+          "family": "Ren",
+          "given": "Haoxing"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023
+        ]
+      },
+      "url": "https://arxiv.org/abs/2309.07544",
+      "doi": null,
+      "reference_slots": [
+        "ref-034"
+      ],
+      "published_context": "Mingjie Liu, Nathaniel Pinckney, Brucek Khailany, and Haoxing Ren. “VerilogEval: Evaluating Large Language Models for Verilog Code Generation.” ICCAD, 2023.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-034",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-034",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-034",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "https://arxiv.org/abs/2309.07544",
+            "authority": "Live official documentation, author-hosted paper or primary arXiv record",
+            "status": "live-body-verified",
+            "sha256": "bcae350489688dad7d4eb924a3df3ebd13860fbc62e063ddfa4d7b2a994a63ca"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-034",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "alternate_urls": [],
+      "arxiv": "2309.07544",
+      "related_manifestations": [
+        "ICCAD, 2023"
+      ]
+    },
+    {
+      "id": "work-f078_ref_035",
+      "citekey": "f078_ref_035",
+      "type": "manuscript",
+      "title": "RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models",
+      "published_title": "RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Tsai",
+          "given": "Yun-Da"
+        },
+        {
+          "family": "Liu",
+          "given": "Mingjie"
+        },
+        {
+          "family": "Ren",
+          "given": "Haoxing"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023
+        ]
+      },
+      "url": "https://arxiv.org/abs/2311.16543",
+      "doi": null,
+      "reference_slots": [
+        "ref-035"
+      ],
+      "published_context": "Yun-Da Tsai, Mingjie Liu, and Haoxing Ren. “RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models.” arXiv:2311.16543, 2023; ACM/IEEE DAC, 2024.",
+      "field_provenance": {
+        "title": [
+          {
+            "source": "published-reference-035",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "authors": [
+          {
+            "source": "published-reference-035",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "issued": [
+          {
+            "source": "published-reference-035",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "url": [
+          {
+            "source": "published-reference-035",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ],
+        "doi": [
+          {
+            "source": "published-reference-035",
+            "authority": "Exact released reference wording and final manuscript hyperlink",
+            "status": "source-verified"
+          }
+        ]
+      },
+      "arxiv": "2311.16543",
+      "related_manifestations": [
+        "ACM/IEEE DAC, 2024"
+      ],
+      "authority_retrieval": {
+        "url": "https://arxiv.org/abs/2311.16543",
+        "status": 200,
+        "final_url": "https://arxiv.org/abs/2311.16543",
+        "sha256": "571c28e685e463e876a8f80e2c561fe376bccca587ae41d769b9b18cb17eeb31",
+        "content_type": "text/html; charset=utf-8",
+        "page_title": "[2311.16543] RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models",
+        "retrieved_on": "2026-10-12"
+      }
+    }
+  ],
+  "reference_work_links": [
+    {
+      "reference_slot_id": "ref-001",
+      "work_id": "work-f078_ref_001",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-002",
+      "work_id": "work-f078_ref_002",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-003",
+      "work_id": "work-f078_ref_003",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "work-f078_ref_004",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-005",
+      "work_id": "work-f078_ref_005",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-006",
+      "work_id": "work-f078_ref_006",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-007",
+      "work_id": "work-f078_ref_007",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-008",
+      "work_id": "work-f078_ref_008",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-009",
+      "work_id": "work-f078_ref_009",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-010",
+      "work_id": "work-f078_ref_010",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "work-f078_ref_011",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-012",
+      "work_id": "work-f078_ref_012",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-013",
+      "work_id": "work-f078_ref_013",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-014",
+      "work_id": "work-f078_ref_014",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "work-f078_ref_015",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-016",
+      "work_id": "work-f078_ref_016",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-017",
+      "work_id": "work-f078_ref_017",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-018",
+      "work_id": "work-f078_ref_018",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-019",
+      "work_id": "work-f078_ref_019",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-020",
+      "work_id": "work-f078_ref_020",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-021",
+      "work_id": "work-f078_ref_021",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-022",
+      "work_id": "work-f078_ref_022",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-023",
+      "work_id": "work-f078_ref_023",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-024",
+      "work_id": "work-f078_ref_024",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-025",
+      "work_id": "work-f078_ref_025",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-026",
+      "work_id": "work-f078_ref_026",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-027",
+      "work_id": "work-f078_ref_027",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-028",
+      "work_id": "work-f078_ref_028",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-029",
+      "work_id": "work-f078_ref_029",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-030",
+      "work_id": "work-f078_ref_030",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-031",
+      "work_id": "work-f078_ref_031",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-032",
+      "work_id": "work-f078_ref_032",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-033",
+      "work_id": "work-f078_ref_033",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-034",
+      "work_id": "work-f078_ref_034",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-035",
+      "work_id": "work-f078_ref_035",
+      "role": "primary",
+      "order": 1
+    }
+  ],
+  "adjudications": [
+    {
+      "reference_slot": "ref-027",
+      "registry_title": "ArchHDL: A Novel Hardware RTL Design Environment in C++",
+      "published_title": "ArchHDL: A Novel Hardware RTL Development Environment in C++",
+      "decision": "Published title is retained; registry spelling/title difference remains explicit."
+    },
+    {
+      "reference_slot": "ref-033",
+      "decision": "Published edition 5.052 is frozen. The published rolling latest URL is retained, with its version drift explicit."
+    },
+    {
+      "reference_slot": "ref-035",
+      "decision": "The 2023 arXiv and 2024 DAC forms are manifestations of one cited work, not two automatically duplicated works."
+    },
+    {
+      "reference_slot": "ref-029",
+      "decision": "One cited MyHDL documentation suite with conversion and reference locators. Exact published slot unchanged; no new works introduced."
+    },
+    {
+      "reference_slots": [
+        "ref-016",
+        "ref-017"
+      ],
+      "decision": "The three named inventors are the patent authors; patent number and filing/issue dates are separate fields and are not parsed as people."
+    },
+    {
+      "reference_slot": "ref-013",
+      "field": "authors",
+      "published_value": [
+        {
+          "family": "Séméria",
+          "given": "Luc"
+        },
+        {
+          "family": "Seawright",
+          "given": "Andrew"
+        },
+        {
+          "family": "Mehra",
+          "given": "Renu"
+        },
+        {
+          "family": "Ng",
+          "given": "Daniel"
+        },
+        {
+          "family": "Ekanayake",
+          "given": "Arjuna"
+        },
+        {
+          "family": "Pangrle",
+          "given": "Barry"
+        }
+      ],
+      "registry_value": [
+        {
+          "family": "Sèmèria",
+          "given": "Luc"
+        },
+        {
+          "family": "Mehra",
+          "given": "Renu"
+        },
+        {
+          "family": "Pangrle",
+          "given": "Barry"
+        },
+        {
+          "family": "Ekanayake",
+          "given": "Arjuna"
+        },
+        {
+          "family": "Seawright",
+          "given": "Andrew"
+        },
+        {
+          "family": "Ng",
+          "given": "Daniel"
+        }
+      ],
+      "decision": "Published complete author identities and order retained. Registry initials/case, spelling or order differences are explicit; no undocumented identity correction introduced."
+    },
+    {
+      "reference_slot": "ref-015",
+      "field": "authors",
+      "published_value": [
+        {
+          "family": "Soderman",
+          "given": "Donald"
+        },
+        {
+          "family": "Panchul",
+          "given": "Yuri"
+        }
+      ],
+      "registry_value": [
+        {
+          "family": "Soderman",
+          "given": "D."
+        },
+        {
+          "family": "Panchul",
+          "given": "Y."
+        }
+      ],
+      "decision": "Published complete author identities and order retained. Registry initials/case, spelling or order differences are explicit; no undocumented identity correction introduced."
+    },
+    {
+      "reference_slot": "ref-026",
+      "field": "authors",
+      "published_value": [
+        {
+          "family": "Sato",
+          "given": "Shimpei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "registry_value": [
+        {
+          "family": "Sato",
+          "given": "Simpei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "decision": "Published complete author identities and order retained. Registry initials/case, spelling or order differences are explicit; no undocumented identity correction introduced."
+    },
+    {
+      "reference_slot": "ref-028",
+      "field": "authors",
+      "published_value": [
+        {
+          "family": "Sato",
+          "given": "Shimpei"
+        },
+        {
+          "family": "Kobayashi",
+          "given": "Ryohei"
+        },
+        {
+          "family": "Kise",
+          "given": "Kenji"
+        }
+      ],
+      "registry_value": [
+        {
+          "family": "SATO",
+          "given": "Shimpei"
+        },
+        {
+          "family": "KOBAYASHI",
+          "given": "Ryohei"
+        },
+        {
+          "family": "KISE",
+          "given": "Kenji"
+        }
+      ],
+      "decision": "Published complete author identities and order retained. Registry initials/case, spelling or order differences are explicit; no undocumented identity correction introduced."
+    }
+  ],
+  "exceptions": [
+    {
+      "work_id": "work-f078_ref_005",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_006",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_007",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_008",
+      "field": "url",
+      "status": "unknown",
+      "reason": "No hyperlink supplied in this published reference. No locator invented."
+    },
+    {
+      "work_id": "work-f078_ref_013",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_014",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_015",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_016",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_017",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_026",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    },
+    {
+      "work_id": "work-f078_ref_029",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_031",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_032",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_033",
+      "field": "issued",
+      "status": "unknown",
+      "reason": "No supported publication date in the exact reference or resolved registry."
+    },
+    {
+      "work_id": "work-f078_ref_035",
+      "field": "external_authority",
+      "status": "unverified-body",
+      "reason": "Published reference and exact source hyperlink retained; live route did not establish source-body availability."
+    }
+  ],
+  "counts": {
+    "reference_slots": 35,
+    "works": 35,
+    "reference_work_links": 35,
+    "composite_slots": 0
+  },
+  "field_completeness": {
+    "title": 35,
+    "authors": 35,
+    "issued": 28,
+    "url": 34,
+    "doi": 6
+  },
+  "pilot": {
+    "selected_slots": [
+      1,
+      3,
+      5,
+      6,
+      13,
+      16,
+      28,
+      29,
+      33,
+      35
+    ],
+    "composite_or_supplementary_slot": "NOT APPLICABLE: no separately titled component works in a published numbered slot; reference 35 records two manifestations of the same work.",
+    "repeated_destination": "Repository file routes are separate cited objects; parent posts are not relabeled as the cited comments.",
+    "non_Latin_title": "NOT APPLICABLE: exact published reference titles are Latin-script; original personal names are preserved from authoritative metadata."
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce.ai/the-architecture-is-old-the-computational-actor-is-new/sitemap.xml

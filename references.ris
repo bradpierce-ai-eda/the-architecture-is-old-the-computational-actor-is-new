@@ -1,0 +1,381 @@
+TY  - ELEC
+ID  - f078_ref_001
+AU  - Reznikov, Mike
+TI  - Designing RTL with C++HDL
+UR  - https://lnkd.in/p/gM6bBGXw
+PY  - 2026
+DA  - 2026/9/12
+N1  - Published reference slots: ref-001
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_002
+AU  - Reznikov, Mike
+TI  - RISC-V CPU draft in C++HDL
+UR  - https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf
+PY  - 2026
+DA  - 2026/2/7
+N1  - Published reference slots: ref-002
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_003
+AU  - Reznikov, Mike
+TI  - Public comment on Vlad Feldman, “Why hardware engineers should pay attention to AI agents now,” describing RTL development in C++ with Claude/Codex and faster iterations. LinkedIn, 2026
+UR  - https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-003
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_004
+AU  - Reznikov, Mike
+TI  - Public comment on Mark H. Ren’s Agentrys funding post suggesting C++HDL as an intermediate AI-friendly RTL representation. LinkedIn, 2026
+UR  - https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR
+PY  - 2026
+DA  - 2026
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - COMP
+ID  - f078_ref_005
+AU  - Reznikov, Mike
+TI  - cpphdl repository
+UR  - https://github.com/mirekez/cpphdl
+N1  - Published reference slots: ref-005
+ER  -
+
+TY  - COMP
+ID  - f078_ref_006
+AU  - Reznikov, Mike
+TI  - cpphdl examples/basic/Buffer.cpp, native C++HDL Buffer example with inline native/Verilator test path
+UR  - https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp
+N1  - Published reference slots: ref-006
+ER  -
+
+TY  - COMP
+ID  - f078_ref_007
+AU  - Reznikov, Mike
+TI  - cpphdl examples/basic/generated/Buffer.sv, checked-in generated SystemVerilog for the Buffer example
+UR  - https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv
+N1  - Published reference slots: ref-007
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_008
+AU  - Panchul, Yuri
+TI  - Public comment on Mike Reznikov’s “Designing RTL with C++HDL,” LinkedIn, September 13, 2026
+PY  - 2026
+DA  - 2026/9/13
+N1  - Published reference slots: ref-008
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_009
+AU  - Clarke, Peter
+TI  - C Level refines System Compiler, CSim tool
+UR  - https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/
+PY  - 2000
+DA  - 2000/5/22
+N1  - Published reference slots: ref-009
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_010
+AU  - Goering, Richard
+TI  - C Level backs SystemC, but license tiff remains
+UR  - https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/
+PY  - 2001
+DA  - 2001/3/12
+N1  - Published reference slots: ref-010
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_011
+AU  - EE Times
+TI  - Synopsys acquires technology assets from C Level Design
+UR  - https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/
+PY  - 2001
+DA  - 2001/11/12
+N1  - Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_012
+AU  - Goering, Richard
+TI  - C Level folds, Synopsys buys its assets
+UR  - https://www.edn.com/c-level-folds-synopsys-buys-its-assets/
+PY  - 2001
+DA  - 2001/11/12
+N1  - Published reference slots: ref-012
+ER  -
+
+TY  - CPAPER
+ID  - f078_ref_013
+AU  - Séméria, Luc
+AU  - Seawright, Andrew
+AU  - Mehra, Renu
+AU  - Ng, Daniel
+AU  - Ekanayake, Arjuna
+AU  - Pangrle, Barry
+TI  - RTL C-Based Methodology for Designing and Verifying a Multi-Threaded Processor
+T2  - Proceedings of the 39th conference on Design automation  - DAC '02
+SP  - 123
+PB  - ACM Press
+DO  - 10.1145/513918.513951
+UR  - https://doi.org/10.1145/513918.513951
+PY  - 2002
+DA  - 2002
+N1  - Published reference slots: ref-013
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_014
+AU  - Soderman, Donald
+AU  - Panchul, Yuri
+TI  - Implementing C Designs in Hardware: A Full-Featured ANSI C to RTL Verilog Compiler in Action
+DO  - 10.1109/IVC.1998.660676
+UR  - https://doi.org/10.1109/IVC.1998.660676
+PY  - 1998
+DA  - 1998
+N1  - Published reference slots: ref-014
+ER  -
+
+TY  - CPAPER
+ID  - f078_ref_015
+AU  - Soderman, Donald
+AU  - Panchul, Yuri
+TI  - Implementing C Algorithms in Reconfigurable Hardware Using C2Verilog
+T2  - Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No.98TB100251)
+SP  - 339-342
+PB  - IEEE Comput. Soc
+DO  - 10.1109/FPGA.1998.707944
+UR  - https://doi.org/10.1109/FPGA.1998.707944
+PY  - 1998
+DA  - 1998
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - GEN
+ID  - f078_ref_016
+AU  - Panchul, Yuri V.
+AU  - Soderman, Donald A.
+AU  - Coleman, Denis R.
+TI  - System for converting hardware designs in high-level programming language to hardware implementations
+UR  - https://patents.google.com/patent/US6226776B1/en
+PY  - 2001
+DA  - 2001/5/1
+N1  - Published reference slots: ref-016
+ER  -
+
+TY  - GEN
+ID  - f078_ref_017
+AU  - Panchul, Yuri
+AU  - Soderman, Donald
+AU  - Coleman, Denis
+TI  - System for converting hardware designs in high-level programming languages to hardware implementations
+UR  - https://patents.google.com/patent/US6848085B2/en
+PY  - 2005
+DA  - 2005/1/25
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_018
+AU  - Goering, Richard
+TI  - C Level Design tackles C-to-HDL
+UR  - https://www.eetimes.com/c-level-design-tackles-c-to-hdl/
+PY  - 1998
+DA  - 1998/12/14
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_019
+AU  - EE Times
+TI  - C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family
+UR  - https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/
+PY  - 1999
+DA  - 1999/3/16
+N1  - Published reference slots: ref-019
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_020
+AU  - Balph, Tom
+AU  - O’Malley, Pat
+TI  - C modeling accelerates HDL-system design
+UR  - https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/
+PY  - 1998
+DA  - 1998/10/22
+N1  - Published reference slots: ref-020
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_021
+AU  - Souza, Crista
+TI  - Altera takes stake in C Level Design to streamline IC-design automation
+UR  - https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/
+PY  - 2000
+DA  - 2000/6/6
+N1  - Published reference slots: ref-021
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_022
+AU  - C Level Design
+TI  - C Level Design Donates CycleC Methodology to Open SystemC Initiative
+UR  - https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/
+PY  - 2001
+DA  - 2001/3/19
+N1  - Published reference slots: ref-022
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_023
+AU  - Matsumoto, Craig
+TI  - Network processor aims at adjunct role
+UR  - https://www.eetimes.com/network-processor-aims-at-adjunct-role/
+PY  - 2001
+DA  - 2001/6/12
+N1  - Published reference slots: ref-023
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_024
+AU  - Edwards, Stephen A.
+TI  - The Challenges of Hardware Synthesis from C-Like Languages
+UR  - https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf
+PY  - 2005
+DA  - 2005
+N1  - Published reference slots: ref-024
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_025
+AU  - Wilson, Ronald
+TI  - C link remains frayed in hardware design flows
+UR  - https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/
+PY  - 2005
+DA  - 2005/10/17
+N1  - Published reference slots: ref-025
+ER  -
+
+TY  - CPAPER
+ID  - f078_ref_026
+AU  - Sato, Shimpei
+AU  - Kise, Kenji
+TI  - ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation
+T2  - 2013 IEEE 7th International Symposium on Embedded Multicore Socs
+SP  - 107-112
+PB  - IEEE
+DO  - 10.1109/MCSoC.2013.38
+UR  - https://doi.org/10.1109/MCSoC.2013.38
+PY  - 2013
+DA  - 2013/9
+N1  - Published reference slots: ref-026
+ER  -
+
+TY  - CHAP
+ID  - f078_ref_027
+AU  - Sato, Shimpei
+AU  - Kise, Kenji
+TI  - ArchHDL: A Novel Hardware RTL Development Environment in C++
+T2  - Lecture Notes in Computer Science; Applied Reconfigurable Computing
+SP  - 53-64
+PB  - Springer International Publishing
+DO  - 10.1007/978-3-319-16214-0_5
+UR  - https://doi.org/10.1007/978-3-319-16214-0_5
+PY  - 2015
+DA  - 2015
+N1  - Published reference slots: ref-027
+ER  -
+
+TY  - JOUR
+ID  - f078_ref_028
+AU  - Sato, Shimpei
+AU  - Kobayashi, Ryohei
+AU  - Kise, Kenji
+TI  - ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment
+T2  - IEICE Transactions on Information and Systems
+VL  - E101.D
+IS  - 2
+SP  - 344-353
+PB  - Institute of Electronics, Information and Communications Engineers (IEICE)
+DO  - 10.1587/transinf.2017RCP0012
+UR  - https://doi.org/10.1587/transinf.2017RCP0012
+PY  - 2018
+DA  - 2018
+N1  - Published reference slots: ref-028
+ER  -
+
+TY  - COMP
+ID  - f078_ref_029
+AU  - Jan Decaluwe and the MyHDL community
+TI  - MyHDL conversion and conversion-verification documentation
+UR  - https://docs.myhdl.org/en/stable/manual/conversion.html
+L2  - https://docs.myhdl.org/en/stable/manual/reference.html
+N1  - Published reference slots: ref-029
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_030
+AU  - Lockhart, Derek
+AU  - Zibrat, Gary
+AU  - Batten, Christopher
+TI  - PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research
+UR  - https://www.csl.cornell.edu/~cbatten/pdfs/lockhart-pymtl-micro2014.pdf
+PY  - 2014
+DA  - 2014
+N1  - Published reference slots: ref-030
+ER  -
+
+TY  - COMP
+ID  - f078_ref_031
+AU  - ROHD project
+TI  - ROHD project documentation
+UR  - https://intel.github.io/rohd-website/get-started/overview/
+N1  - Published reference slots: ref-031
+ER  -
+
+TY  - COMP
+ID  - f078_ref_032
+AU  - Synogate
+TI  - Gatery documentation and tutorials
+UR  - https://www.synogate.com/gatery/tutorial/part1.html
+N1  - Published reference slots: ref-032
+ER  -
+
+TY  - COMP
+ID  - f078_ref_033
+AU  - Verilator project
+TI  - Verilator 5.052 documentation
+UR  - https://verilator.org/guide/latest/overview.html
+N1  - Published reference slots: ref-033
+ER  -
+
+TY  - ELEC
+ID  - f078_ref_034
+AU  - Liu, Mingjie
+AU  - Pinckney, Nathaniel
+AU  - Khailany, Brucek
+AU  - Ren, Haoxing
+TI  - VerilogEval: Evaluating Large Language Models for Verilog Code Generation
+UR  - https://arxiv.org/abs/2309.07544
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-034
+ER  -
+
+TY  - UNPB
+ID  - f078_ref_035
+AU  - Tsai, Yun-Da
+AU  - Liu, Mingjie
+AU  - Ren, Haoxing
+TI  - RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models
+UR  - https://arxiv.org/abs/2311.16543
+PY  - 2023
+DA  - 2023
+N1  - Published reference slots: ref-035
+ER  -
