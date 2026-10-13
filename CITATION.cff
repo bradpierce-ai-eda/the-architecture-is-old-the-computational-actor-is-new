@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "The DOI-linked Zenodo preprint is the publication of record."
+title: "The Architecture Is Old. The Computational Actor Is New."
+authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: "https://orcid.org/0009-0009-7427-2969"
+doi: 10.5281/zenodo.22837370
+date-released: 2026-09-13
+url: https://zenodo.org/records/22837370
+license: CC-BY-4.0

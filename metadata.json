@@ -1,0 +1,35 @@
+{
+  "title": "The Architecture Is Old. The Computational Actor Is New.",
+  "subtitle": "C++HDL, AI agents, and moving the RTL development loop while keeping SystemVerilog at the boundary",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-09-13",
+  "doi": "10.5281/zenodo.22837370",
+  "concept_doi": "10.5281/zenodo.22837369",
+  "zenodo_record": "https://zenodo.org/records/22837370",
+  "url": "https://bradpierce.ai/the-architecture-is-old-the-computational-actor-is-new/",
+  "pdf_url": "https://bradpierce.ai/the-architecture-is-old-the-computational-actor-is-new/the-architecture-is-old-the-computational-actor-is-new.pdf",
+  "abstract": "These are some thoughts inspired by Mike Reznikov’s recent paper “Designing RTL with C++HDL” [1]. C++HDL revisits a long lineage of executable C/C++ RTL, HDL generation, and cross-domain checking [9,13–17], but does so at a new moment: AI coding agents can now sit inside the fast edit-compile-test loop [3,4]. The central hypothesis is that this new computational actor may change the economics of an old architectural pattern by increasing trustworthy correction and design-space search per unit cost, while SystemVerilog remains the downstream compatibility and verification boundary. We propose experiments that attack the C++HDL/SystemVerilog semantic boundary, compare against a strong SystemVerilog + Verilator baseline [33], decompose representation from native-execution effects, test downstream PPA consequences, and separate migration from maintenance. The aim is not to claim that C++ has become a better HDL, but to define a falsifiable research program for asking whether an old architecture has acquired a new reason to matter.",
+  "keywords": [
+    "C++HDL",
+    "RTL design",
+    "AI coding agents",
+    "SystemVerilog",
+    "Verilator",
+    "executable RTL",
+    "formal verification"
+  ],
+  "license": "CC-BY-4.0",
+  "resource_type": "Preprint",
+  "preferred_citation": "Brad Pierce. The Architecture Is Old. The Computational Actor Is New. Zenodo, 2026. https://doi.org/10.5281/zenodo.22837370.",
+  "relevance_and_citation_scope": [
+    "This paper is an appropriate citation for the historical lineage of executable C/C++ RTL, generated HDL and cross-domain checking, and for a research agenda examining AI coding agents in fast RTL development loops.",
+    "The central economic hypothesis concerns trustworthy correction and design-space search per unit cost. The proposed experiments compare a strong SystemVerilog plus Verilator baseline, distinguish representation from native-execution effects, test downstream PPA, and separate migration from maintenance.",
+    "The paper presents a falsifiable research agenda and bounded adoption test. It does not report completed experiments or establish an advantage for C++HDL. Mike Reznikov’s work is the inspiration; individual historical and technical claims remain attributable to the cited sources.",
+    "The DOI-linked Zenodo record is the publication of record. These GitHub editions reflect the unchanged September 13, 2026 publication. Repository-added metadata is separate from canonical paper content."
+  ]
+}

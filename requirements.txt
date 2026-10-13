@@ -1,0 +1,4 @@
+lxml>=5
+pypdf>=5
+PyYAML>=6
+bibtexparser>=1.4,<2
