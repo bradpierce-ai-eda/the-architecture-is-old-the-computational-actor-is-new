@@ -1,0 +1,675 @@
+[
+  {
+    "url": "https://lnkd.in/p/gM6bBGXw",
+    "status": 200,
+    "final_url": "https://www.linkedin.com/posts/mike-reznikov_designing-rtl-with-chdl-ugcPost-7504639436278788096-MLcL/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAEaWM0Bb_aNPrIBNAiL0Tm_IEgXqLwIFyA",
+    "sha256": "6d10fcb5f57eb9f129b9962afd1442339341038ab4600b51b593fcdf0e6d519d",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "C++ RTL Development for ASIC Prototyping | Mike Reznikov posted on the topic | LinkedIn",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf",
+    "status": 200,
+    "final_url": "https://www.linkedin.com/pulse/risc-v-cpu-draft-chdl-mike-reznikov-m0vmf",
+    "sha256": "8eb7bf77d0a6e24a6494e8d1f78d05b66521151066397af6e8f0eeb681996228",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "RISC-V CPU in C++HDL",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE",
+    "status": 200,
+    "final_url": "https://www.linkedin.com/posts/vladfeldman_why-hardware-engineers-should-pay-attention-activity-7457475163568193536-JzkE",
+    "sha256": "1498d4cc8338f64c6461206b9ab561f87fb869b9a8a61ab33be0109b2e3c3fdf",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "Why hardware engineers should pay attention to AI agents now | Vlad Feldman | 15 comments",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR",
+    "status": 200,
+    "final_url": "https://www.linkedin.com/posts/mark-h-ren-4837318_agentrys-raises-245-million-to-build-agentic-activity-7498390180228268032-ckFR",
+    "sha256": "af9ec90cfb5627a96d6ed1526ad6afcae30e7a17a92faee9261867a5b41494bb",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers | Mark H. Ren | 34 comments",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://github.com/mirekez/cpphdl",
+    "status": 200,
+    "final_url": "https://github.com/mirekez/cpphdl",
+    "sha256": "b6d80b5bf13d11b7c7a2c19d973474904f9e399dc11e72dbd347e9846e36ee0b",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "GitHub - mirekez/cpphdl: C++HDL (Hardware Description Language) · GitHub",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp",
+    "status": 200,
+    "final_url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/Buffer.cpp",
+    "sha256": "8c10f033dbb3b30ebaa76435d869a5cdee423792ad0f1fe9dda44e3257c3740a",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "cpphdl/examples/basic/Buffer.cpp at main · mirekez/cpphdl · GitHub",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv",
+    "status": 200,
+    "final_url": "https://github.com/mirekez/cpphdl/blob/main/examples/basic/generated/Buffer.sv",
+    "sha256": "ed9b13e0fb4f6280f1eeab700cedd97713260521908fab9305e21933896a6749",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "cpphdl/examples/basic/generated/Buffer.sv at main · mirekez/cpphdl · GitHub",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-level-refines-system-compiler-csim-tool/",
+    "sha256": "0782252a0080c79f52dc4c109277a8e82c0d3db09e68c1176966e3d96b2a9b70",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level refines System Compiler, CSim tool - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-level-backs-systemc-but-license-tiff-remains/",
+    "sha256": "a5e2544f8cff955b93959b44bd95c36e9115f132060fa9b5537d795dab01a6f6",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level backs SystemC, but license tiff remains - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/synopsys-acquires-technology-assets-from-c-level-design/",
+    "sha256": "eb5589cd040d3d42936822b0aae1c50fc22ee5512006c6af73d90ef26aca0476",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "Synopsys acquires technology assets from C Level Design - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.edn.com/c-level-folds-synopsys-buys-its-assets/",
+    "status": 200,
+    "final_url": "https://www.edn.com/c-level-folds-synopsys-buys-its-assets/",
+    "sha256": "925f9f91fd2e354fd6be110f420ee26356c36ef36c8d05fef2e9273918190a5c",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level folds, Synopsys buys its assets - EDN",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1145/513918.513951",
+    "status": "route-unavailable",
+    "error": "HTTP Error 403: Forbidden",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1109/IVC.1998.660676",
+    "status": 202,
+    "final_url": "https://ieeexplore.ieee.org/document/660676/",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": null,
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1109/FPGA.1998.707944",
+    "status": 202,
+    "final_url": "https://ieeexplore.ieee.org/document/707944/",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": null,
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://patents.google.com/patent/US6226776B1/en",
+    "status": "route-unavailable",
+    "error": "HTTP Error 503: Service Unavailable",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://patents.google.com/patent/US6848085B2/en",
+    "status": "route-unavailable",
+    "error": "HTTP Error 503: Service Unavailable",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-level-design-tackles-c-to-hdl/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-level-design-tackles-c-to-hdl/",
+    "sha256": "e16b0dcf2211bcc6c8cf83a4116f30f9085fbd8ae5e6fb7f76f1299de42566b5",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level Design tackles C-to-HDL - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-level-design-adds-rtl-c-synthesis-product-to-slda-tool-family/",
+    "sha256": "0d1252d859b5ef2d701ea6e1aeb6f8569ab7a0bc547a8eb1801c2bc9e2d7cc72",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level Design Adds RTL-C Synthesis Product to SLDA Tool Family - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/",
+    "status": 200,
+    "final_url": "https://www.edn.com/10-22-98-c-modeling-accelerates-hdl-system-desig/",
+    "sha256": "d1fd21d028615ff7dfe1d4cf46dd5449a2162ae76b5cc14116ae0b601489ed24",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "10.22.98 C modeling accelerates HDL-system desig - EDN",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/altera-takes-stake-in-c-level-design-to-streamline-ic-design-automation/",
+    "sha256": "f805d904a9b10c32185f57783062248be2b0c876fe53847b08ee79355688300b",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "Altera takes stake in C Level Design to streamline IC-design automation - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-level-design-donates-cyclec-methodology-to-open-systemc-initiative/",
+    "sha256": "c57d0aa6ded7eaab0673d69037e356120bf2d1a218f11dc5b6c79917df8ae71c",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C Level Design Donates CycleC Methodology to Open SystemC Initiative - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/network-processor-aims-at-adjunct-role/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/network-processor-aims-at-adjunct-role/",
+    "sha256": "81b0cba444a3b56ab3798c13f2f3cc41d977f43a2bff04a244a969a823898158",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "Network processor aims at adjunct role - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf",
+    "status": 200,
+    "final_url": "https://www.cs.columbia.edu/~sedwards/papers/edwards2005challenges.pdf",
+    "sha256": "b0a306bfc2a369913e958ae07d2256c517ffffeb27a2c0b9206a89ef900d9dcb",
+    "content_type": "application/pdf",
+    "page_title": null,
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/",
+    "status": 200,
+    "final_url": "https://www.eetimes.com/c-link-remains-frayed-in-hardware-design-flows/",
+    "sha256": "82d77192b843aef18e7d1614df50af89b1a07f3efe29da818c535f32cedc1e0a",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": "C link remains frayed in hardware design flows - EE Times",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1109/MCSoC.2013.38",
+    "status": 202,
+    "final_url": "https://ieeexplore.ieee.org/document/6657913/",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "content_type": "text/html; charset=UTF-8",
+    "page_title": null,
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1007/978-3-319-16214-0_5",
+    "status": 200,
+    "final_url": "https://link.springer.com/chapter/10.1007/978-3-319-16214-0_5?error=cookies_not_supported&code=58591899-b40b-4876-9f22-28fd28f65ed4",
+    "sha256": "fb1bea4d74a5f8bb92e92f4c6d21fa3be322b248368b4e36ded762cdca47e994",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "ArchHDL: A Novel Hardware RTL Design Environment in C++ | Springer Nature Link",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://doi.org/10.1587/transinf.2017RCP0012",
+    "status": 200,
+    "final_url": "https://www.jstage.jst.go.jp/article/transinf/E101.D/2/E101.D_2017RCP0012/_article",
+    "sha256": "53a78ea918b3b40b759cc8c647d15fcba79abd76fb1c0ecc4ef8aef81d0980fb",
+    "content_type": "text/html;charset=utf-8",
+    "page_title": "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://intel.github.io/rohd-website/get-started/overview/",
+    "status": 200,
+    "final_url": "https://intel.github.io/rohd-website/get-started/overview/",
+    "sha256": "dca037981586cbcf77598e4c7678587e2f3461ea2e461d656e9e733d8f122622",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "Overview - ROHD",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://www.synogate.com/gatery/tutorial/part1.html",
+    "status": 200,
+    "final_url": "https://www.synogate.com/gatery/tutorial/part1.html",
+    "sha256": "972eb19ff8a8fcaab304e97c2802e6ffdcef5e66af117b04fadc0af112b658a4",
+    "content_type": "text/html",
+    "page_title": "Introduction & Getting Started - Synogate",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://verilator.org/guide/latest/overview.html",
+    "status": 200,
+    "final_url": "https://verilator.org/guide/latest/overview.html",
+    "sha256": "18afb38be0aa7c0e545bd0a5732294f7e23fd821408b9c38a9d7b90e25242a7a",
+    "content_type": "text/html",
+    "page_title": "Overview &mdash; Verilator 5.052 documentation",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://arxiv.org/abs/2311.16543",
+    "status": 200,
+    "final_url": "https://arxiv.org/abs/2311.16543",
+    "sha256": "571c28e685e463e876a8f80e2c561fe376bccca587ae41d769b9b18cb17eeb31",
+    "content_type": "text/html; charset=utf-8",
+    "page_title": "[2311.16543] RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language Models",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145%2F513918.513951",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1145%2F513918.513951",
+    "sha256": "0d465ecddc745992c9f7dd056430a57df035d44b68e5cfa0165b8d43fce6c4d6",
+    "content_type": "application/json",
+    "page_title": null,
+    "retrieved_on": "2026-10-12",
+    "registry": {
+      "publisher": "ACM Press",
+      "published-print": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      },
+      "DOI": "10.1145/513918.513951",
+      "type": "proceedings-article",
+      "page": "123",
+      "title": [
+        "RTL c-based methodology for designing and verifying a multi-threaded processor"
+      ],
+      "author": [
+        {
+          "given": "Luc",
+          "family": "Sèmèria",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Renu",
+          "family": "Mehra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Barry",
+          "family": "Pangrle",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Arjuna",
+          "family": "Ekanayake",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "Seawright",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Ng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 39th conference on Design automation  - DAC '02"
+      ],
+      "URL": "https://doi.org/10.1145/513918.513951",
+      "ISSN": [
+        "0738-100X"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109%2FIVC.1998.660676",
+    "status": "route-unavailable",
+    "error": "HTTP Error 429: Too Many Requests",
+    "retrieved_on": "2026-10-12"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109%2FFPGA.1998.707944",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1109%2FFPGA.1998.707944",
+    "sha256": "f209a50d1879f1a7c14c4a13e71724455b30c8f198846398d9cdb2f362115fde",
+    "content_type": "application/json",
+    "page_title": null,
+    "retrieved_on": "2026-10-12",
+    "registry": {
+      "publisher": "IEEE Comput. Soc",
+      "DOI": "10.1109/fpga.1998.707944",
+      "type": "proceedings-article",
+      "page": "339-342",
+      "title": [
+        "Implementing C algorithms in reconfigurable hardware using C2Verilog"
+      ],
+      "author": [
+        {
+          "given": "D.",
+          "family": "Soderman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Y.",
+          "family": "Panchul",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings. IEEE Symposium on FPGAs for Custom Computing Machines (Cat. No.98TB100251)"
+      ],
+      "URL": "https://doi.org/10.1109/fpga.1998.707944"
+    }
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109%2FMCSoC.2013.38",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1109%2FMCSoC.2013.38",
+    "sha256": "8ed96a1ef2916ec0c4ca5a318b6d80047ee15243465d091f784e42c058b72d25",
+    "content_type": "application/json",
+    "page_title": null,
+    "retrieved_on": "2026-10-12",
+    "registry": {
+      "publisher": "IEEE",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1109/mcsoc.2013.38",
+      "type": "proceedings-article",
+      "page": "107-112",
+      "title": [
+        "ArchHDL: A New Hardware Description Language for High-Speed Architectural Evaluation"
+      ],
+      "author": [
+        {
+          "given": "Simpei",
+          "family": "Sato",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Kenji",
+          "family": "Kise",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "2013 IEEE 7th International Symposium on Embedded Multicore Socs"
+      ],
+      "URL": "https://doi.org/10.1109/mcsoc.2013.38",
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007%2F978-3-319-16214-0_5",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1007%2F978-3-319-16214-0_5",
+    "sha256": "fab9b65db0707bb6e5296e3824786c1992020a54b8ade6d298253b600ed5c0df",
+    "content_type": "application/json",
+    "page_title": null,
+    "retrieved_on": "2026-10-12",
+    "registry": {
+      "publisher": "Springer International Publishing",
+      "published-print": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-319-16214-0_5",
+      "type": "book-chapter",
+      "page": "53-64",
+      "title": [
+        "ArchHDL: A Novel Hardware RTL Design Environment in C++"
+      ],
+      "author": [
+        {
+          "given": "Shimpei",
+          "family": "Sato",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kenji",
+          "family": "Kise",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            31
+          ]
+        ]
+      },
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "Applied Reconfigurable Computing"
+      ],
+      "ISBN": [
+        "9783319162133",
+        "9783319162140"
+      ],
+      "URL": "https://doi.org/10.1007/978-3-319-16214-0_5",
+      "ISSN": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1587%2Ftransinf.2017RCP0012",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1587%2Ftransinf.2017RCP0012",
+    "sha256": "d03ee282dad460bb3f68bca2b88642fe260caa28fb22e8f95269579532a13053",
+    "content_type": "application/json",
+    "page_title": null,
+    "retrieved_on": "2026-10-12",
+    "registry": {
+      "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "DOI": "10.1587/transinf.2017rcp0012",
+      "type": "journal-article",
+      "page": "344-353",
+      "title": [
+        "ArchHDL: A Novel Hardware RTL Modeling and High-Speed Simulation Environment"
+      ],
+      "volume": "E101.D",
+      "author": [
+        {
+          "given": "Shimpei",
+          "family": "SATO",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tokyo Institute of Technology"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ryohei",
+          "family": "KOBAYASHI",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Tsukuba"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Kenji",
+          "family": "KISE",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tokyo Institute of Technology"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEICE Transactions on Information and Systems"
+      ],
+      "URL": "https://doi.org/10.1587/transinf.2017rcp0012",
+      "ISSN": [
+        "0916-8532",
+        "1745-1361"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    }
+  }
+]
