@@ -1,4 +1,9 @@
 {
+  "html_disclosure_override": {
+    "authorized_on": "2026-11-09",
+    "scope": "HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.",
+    "statement": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication."
+  },
   "authority": "Frozen Zenodo publication; representation changes do not revise the intellectual content.",
   "record": "https://zenodo.org/records/22837370",
   "doi": "10.5281/zenodo.22837370",
